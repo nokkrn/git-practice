@@ -1,2 +1,2 @@
 # git-practice
-自分のリードミーで更新
+github上で更新している
