@@ -1,2 +1,2 @@
 # git-practice
-pull時にconflict発生(local)
+自分のリードミーで更新
