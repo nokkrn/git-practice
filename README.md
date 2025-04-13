@@ -1,2 +1,2 @@
 # git-practice
-conflict-remote上で更新（conflict発生)
+pull時にconflict発生
